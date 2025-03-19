@@ -30,7 +30,7 @@ const profileDetails = {
   title: 'Profile Details',
   data: [
     { category: 'Subsect', details: 'Vaidiki Velanadu' },
-    { category: 'Gothram', details: 'Koundinyasa' },
+    { category: 'Gothram', details: 'Kaundinyasa' },
     { category: 'Surname', details: 'Parasuramuni' },
     { category: 'Name', details: 'Venkata Vishnu' },
     { category: 'Date of Birth', details: '2nd October, 1998' },
@@ -61,12 +61,8 @@ const profileDetails = {
     },
     {
       category: 'Work',
-      details: `
-        <ul>
-          <li>Joining as a Computer Teacher at Shankara School (Sampradaya Pathashala), CBSE, Kanchi Peetham, Podili with 3.24 LPA.</li>
-          <li>Worked as Software Engineer at Zenoti, Hyderabad with 13.7 LPA.</li>
-        </ul>
-      `,
+      details:
+        'Joining as a Computer Teacher at Shankara School, Kanchi Peetham (CBSE), Podili. Passionate about nurturing young minds and fostering a love for technology. Taking a refreshing break from his previous role as a Software Engineer at Zenoti, Hyderabad',
     },
   ],
 };
@@ -107,7 +103,7 @@ const requirements = {
 const footerContent = {
   content: `
     For more details like hobbies, job experience, education,
-    testimonials, and social media handles ,checkout
+    testimonials, and social media handles, checkout
     <a href="https://comaecod.github.io/portfolio/" target="_blank">Vishnu's website</a>.
   `,
 };
