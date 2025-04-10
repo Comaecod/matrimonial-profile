@@ -95,7 +95,7 @@ const requirements = {
   items: [
     'Traditional family background.',
     'Preferred age gap: 8 years to minimum 3 years.',
-    'Looking for a girl who can happily be a homemaker.',
+    // 'Looking for a girl who can happily be a homemaker.',
   ],
 };
 
