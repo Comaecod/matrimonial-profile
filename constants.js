@@ -10,7 +10,7 @@ const sectionsContent = [
     Namaskaram dear parents, would-be brides, and grooms, I am Smt. Kalyani. This is my son's matrimonial profile. I want to share with you a few thoughts that have been close to my heart since I was young. I believe that marriage is a sacred ceremony that increases the joy manifold. The bride, in particular, should be given the utmost care and importance because she leaves her family to join a new one. She is, after all, referred to as <em>'Kanya Ratnam'</em> (her counterpart <em>'Vara Ratnam'</em>).
   `,
   `
-    When marriage is such a beautiful and romantic journey, why should girls and boys compromise or make haste? Shouldn't we take time to ensure compatibility in all aspects of life? For example, in my son's case, he would first prefer a bride who has <em>Daiva Bhakti</em>, <em>Guru Bhakti</em>, and dedication to family, as he himself embodies these qualities.
+    When marriage is such a beautiful and romantic journey, why should girls and boys compromise or make haste? Shouldn't we take time to ensure compatibility in all aspects of life? For example, in my son's case, he would first prefer a bride who has <em>Daiva Bhakti</em>, <em>Guru Bhakti</em>, and dedication to family.
     <p>Shouldn't these qualities be the top priorities for anyone?</p>
   `,
   `
