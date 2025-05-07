@@ -10,18 +10,17 @@ const sectionsContent = [
     Namaskaram dear parents, would-be brides, and grooms, I am Smt. Kalyani. This is my son's matrimonial profile. I want to share with you a few thoughts that have been close to my heart since I was young. I believe that marriage is a sacred ceremony that increases the joy manifold. The bride, in particular, should be given the utmost care and importance because she leaves her family to join a new one. She is, after all, referred to as <em>'Kanya Ratnam'</em> (her counterpart <em>'Vara Ratnam'</em>).
   `,
   `
+    Don’t you agree that before entering <em>Grihasthashrama</em>, the bride and groom should find each other physically attractive and be able to engage in meaningful, heartfelt conversations? When the family is such a sacred and noble institution, should not the <em>Grihalakshmi</em>—the <em>Samragni</em> of the home—be lovingly present to care for her in-laws, husband, and children, shaping the household into a strong and beautiful home? Has it not been said that the family is the first school, and the mother, the first teacher? After all, is not compatibility and mutual understanding the very foundation of a happy and enduring marriage?
+  `,
+  `
     When marriage is such a beautiful and romantic journey, why should girls and boys compromise or make haste? Shouldn't we take time to ensure compatibility in all aspects of life? For example, in my son's case, he would first prefer a bride who has <em>Daiva Bhakti</em>, <em>Guru Bhakti</em>, and dedication to family.
     <p>Shouldn't these qualities be the top priorities for anyone?</p>
   `,
   `
-    For my son, a girl interested in learning subjects such as Computers, English Literature, Cosmology, Sanskrit, Music (vocal or instrumental), Kuchipudi, or Bharatanatyam would be greatly preferred. My son has a keen interest and some knowledge in these areas, and he would love to appreciate, enjoy, share and grow in these fields with his life partner.
+    For my son, a girl interested in learning subjects such as Computers, English Literature, Cosmology, Music (vocal or instrumental) would be greatly preferred. My son has a keen interest and some knowledge in these areas, and he would love to appreciate, enjoy, share and grow in these fields with his life partner.
   `,
   `
-    Don't you agree with me when I say that the bride and groom should find each other physically attractive and have meaningful conversations before stepping into <em>Grihastashrama</em>?
-    <p>Are not compatibility and mutual understanding the foundations of a happy and lasting marriage?</p>
-  `,
-  `
-    If you agree with my thoughts, kindly contact me if you have such a girl in your family or if you would like to share your views. I look forward to hearing from you.
+    Should my thoughts align with yours, I invite you to kindly get in touch. If, however, you find any discrepancies or errors in my understanding, I sincerely welcome your guidance. I remain open to learning from anyone rooted in the wisdom of our <em>Guru Parampara</em> and the sacred scriptures.
   `,
 ];
 
@@ -62,7 +61,7 @@ const profileDetails = {
     {
       category: 'Work',
       details:
-        'Joining as a Computer Teacher at Shankara School, Kanchi Peetham (CBSE), Podili. Passionate about nurturing young minds and fostering a love for technology. Taking a refreshing break from his previous role as a Software Engineer at Zenoti, Hyderabad',
+        'Taking a refreshing break from the corporate world to serve at Shankara School, Kanchi Peetham (CBSE), Podili—supporting the school’s administration, IT infrastructure, and overall technological growth, while also teaching Computer Science. It’s a meaningful pause from my journey as a Software Engineer at Zenoti, Hyderabad, allowing me to contribute to education and give back in a hands-on, impactful way.',
     },
   ],
 };
@@ -70,11 +69,14 @@ const profileDetails = {
 // Image Gallery
 const imageGallery = {
   title: 'Photos',
+
   images: [
-    'meInSringeriSidePhoto.jpg',
+    'meWearingPurpleKurta.jpg',
+    'meAtWildWaters.jpg',
+    'meSittingWithMyLegsCrossed.jpg',
     'meNearBushes.jpg',
     'meOnAHammock.jpg',
-    'meAtThePool.jpg',
+    'meInAnArch.jpg',
     'meSittingInSringeri.jpg',
     'meWithAGuitar.jpg',
   ],
