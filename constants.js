@@ -61,7 +61,7 @@ const profileDetails = {
     {
       category: 'Work',
       details:
-        'Taking a refreshing break from the corporate world to serve at Shankara School, Kanchi Peetham (CBSE), Podili—supporting the school’s <b>administration, IT infrastructure, and overall technological growth</b>, while also teaching <b>Computer Science</b>. It’s a meaningful pause from my journey as a <b>Software Engineer at Zenoti, Hyderabad</b>, allowing me to contribute to education and give back in a hands-on, impactful way.',
+        '✨Taking a refreshing break from the <i>corporate world</i> to serve at <b>Shankara School, Kanchi Peetham (CBSE), Podili</b>—supporting the <b>school’s administration, IT infrastructure, and overall technological growth</b>, while also teaching <i>Computer Science</i>. 🎓💻 It’s a <i>meaningful pause</i> from my journey as a <b>Software Engineer at Zenoti, Hyderabad</b>, allowing me to contribute to education and give back in a <b>hands-on, impactful way</b>. 🌱📚 Also, I have a <b>little long-term dream</b> of setting up a <b>startup</b> (based on my interest in software) of course in consultation with my <i>expert friends and family</i>. 🚀💡',
     },
   ],
 };
