@@ -10,7 +10,7 @@ const sectionsContent = [
     Namaskaram dear parents, would-be brides, and grooms, I am Smt. Kalyani. This is my son's matrimonial profile. I want to share with you a few thoughts that have been close to my heart since I was young. I believe that marriage is a sacred ceremony that increases the joy manifold. The bride, in particular, should be given the utmost care and importance because she leaves her family to join a new one. She is, after all, referred to as <em>'Kanya Ratnam'</em> (her counterpart <em>'Vara Ratnam'</em>).
   `,
   `
-    Don’t you agree that before entering <em>Grihasthashrama</em>, the bride and groom should find each other physically attractive and be able to engage in meaningful, heartfelt conversations? When the family is such a sacred and noble institution, should not the <em>Grihalakshmi</em>—the <em>Samragni</em> of the home—be lovingly present at home to care for her in-laws, husband, and children, shaping the household into a strong and beautiful home? Has it not been said that the family is the first school, and the mother, the first teacher? After all, is not compatibility and mutual understanding the very foundation of a happy and an enduring marriage?
+    Don’t you agree that before entering <em>Grihasthashrama</em>, the bride and groom should find each other physically attractive and be able to engage in meaningful, heartfelt conversations? When the family is such a sacred and noble institution, should not the <em>Grihalakshmi</em>—the <em>Samragni</em> of the home—be lovingly present at home to care of her in-laws, husband, and children, shaping the household into a strong and beautiful home! Has it not been said that the family is the first school, and the mother, the first teacher? After all, is not compatibility and mutual understanding the very foundation of a happy and an enduring marriage?
   `,
   `
     When marriage is such a beautiful and a romantic journey, why should girls and boys compromise or make haste? Shouldn't we take time to ensure compatibility in all aspects of life? For example, in my son's case, he would first prefer a bride who has <em>Daiva Bhakti</em>, <em>Guru Bhakti</em>, and dedication to family.
@@ -35,10 +35,10 @@ const profileDetails = {
     { category: 'Date of Birth', details: '2nd October, 1998' },
     { category: 'Time of Birth', details: '09:53 a.m.' },
     { category: 'Place of Birth', details: 'Guntakal' },
-    { category: 'Birth Star', details: 'Dhanishta' },
+    { category: 'Birth Star', details: 'Dhanishta, Prathama Paadam' },
     { category: 'Raasi', details: 'Makara' },
     { category: 'Height', details: '6 feet' },
-    { category: 'Complexion', details: 'Wheatish' },
+    { category: 'Complexion', details: 'Fair' },
     { category: 'Siblings', details: 'None' },
     {
       category: 'Father',
@@ -50,10 +50,10 @@ const profileDetails = {
       details:
         'Smt. Kalyani Parasuramuni (MA English, SK University, Homemaker)',
     },
-    { category: 'Type', details: 'Smartha' },
-    { category: 'Matha', details: 'Sringeri' },
+    // { category: 'Type', details: 'Smartha' },
+    { category: 'Peetham', details: 'Sringeri' },
     { category: 'Native Place', details: 'Hyderabad' },
-    { category: 'Diet', details: 'Vegetarian' },
+    // { category: 'Diet', details: 'Vegetarian' },
     {
       category: 'Education',
       details: 'Master of Computer Applications, Sastra University',
@@ -61,7 +61,7 @@ const profileDetails = {
     {
       category: 'Work',
       details:
-        'Taking a refreshing break from the corporate world to serve at Shankara School, Kanchi Peetham (CBSE), Podili—supporting the school’s administration, IT infrastructure, and overall technological growth, while also teaching Computer Science. It’s a meaningful pause from my journey as a Software Engineer at Zenoti, Hyderabad, allowing me to contribute to education and give back in a hands-on, impactful way.',
+        '✨Taking a refreshing break from the <i>corporate world</i> to serve at <b>Shankara School, Kanchi Peetham (CBSE), Podili</b>—supporting the <b>school’s administration, IT infrastructure, and overall technological growth</b>, while also teaching <i>Computer Science</i>. 🎓💻 It’s a <i>meaningful pause</i> from my journey as a <b>Software Engineer at Zenoti, Hyderabad</b>, allowing me to contribute to education and give back in a <b>hands-on, impactful way</b>. 🌱📚 Also, I have a <b>little long-term dream</b> of setting up a <b>startup</b> (based on my interest in software) of course in consultation with my <i>expert friends and family</i>. 🚀💡',
     },
   ],
 };
@@ -71,14 +71,14 @@ const imageGallery = {
   title: 'Photos',
 
   images: [
-    'meWearingPurpleKurta.jpg',
-    'meAtWildWaters.jpg',
+    // 'meWearingPurpleKurta.jpg',
+    // 'meAtWildWaters.jpg',
     'meSittingWithMyLegsCrossed.jpg',
     'meNearBushes.jpg',
-    'meOnAHammock.jpg',
+    // 'meOnAHammock.jpg',
     'meInAnArch.jpg',
     'meSittingInSringeri.jpg',
-    'meWithAGuitar.jpg',
+    // 'meWithAGuitar.jpg',
   ],
 };
 
