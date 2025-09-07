@@ -86,8 +86,7 @@ const imageGallery = {
 const contactDetails = {
   title: 'Contact Details',
   content: `
-    Contact Number: +91 9321232599
-    <img src="assets/icons/NoWhatsApp.png" alt="No WhatsApp" class="whatsapp-icon" loading="lazy" fetchpriority="low"/>
+    Contact & WhatsApp: +91 9321232599
   `,
 };
 
