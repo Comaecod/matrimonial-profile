@@ -11,11 +11,11 @@ document.addEventListener('DOMContentLoaded', function () {
   `;
 
   // Append sections
-  sectionsContent.forEach((section) => {
+  /*  sectionsContent.forEach((section) => {
     const sectionElement = document.createElement('section');
     sectionElement.innerHTML = `<p>${section}</p>`;
     main.appendChild(sectionElement);
-  });
+  }); */
 
   // Append profile details table
   const profileSection = document.createElement('section');

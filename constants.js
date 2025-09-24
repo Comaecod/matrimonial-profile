@@ -61,7 +61,7 @@ const profileDetails = {
     {
       category: 'Work',
       details:
-        '✨Taking a refreshing break from the <i>corporate world</i> to serve at <b>Shankara School, Kanchi Peetham (CBSE), Podili</b>—supporting the <b>school’s administration, IT infrastructure, and overall technological growth</b>, while also teaching <i>Computer Science</i>. 🎓💻 It’s a <i>meaningful pause</i> from my journey as a <b>Software Engineer at Zenoti, Hyderabad</b>, allowing me to contribute to education and give back in a <b>hands-on, impactful way</b>. 🌱📚 Also, I have a <b>little long-term dream</b> of setting up a <b>startup</b> (based on my interest in software) of course in consultation with my <i>expert friends and family</i>. 🚀💡',
+        '✨Taking a refreshing break from the <i>corporate world</i> to serve at <b>Shankara School, Kanchi Peetham (CBSE), Podili</b>—supporting the <b>school’s administration, IT infrastructure, and overall technological growth</b>, while also teaching <i>Computer Science</i>. 🎓💻 It’s a <i>meaningful pause</i> from his journey as a <b>Software Engineer at Zenoti, Hyderabad</b>, allowing him to contribute to education and give back in a <b>hands-on, impactful way</b>. 🌱📚 He also has a <b>little long-term dream</b> of setting up a <b>startup</b> (based on his interest in software). 🚀💡',
     },
   ],
 };
@@ -71,14 +71,14 @@ const imageGallery = {
   title: 'Photos',
 
   images: [
-    // 'meWearingPurpleKurta.jpg',
-    // 'meAtWildWaters.jpg',
+    'meWithAGuitar.jpg',
+    'meAtWildWaters.jpg',
     'meSittingWithMyLegsCrossed.jpg',
     'meNearBushes.jpg',
-    // 'meOnAHammock.jpg',
+    'meOnAHammock.jpg',
     'meInAnArch.jpg',
     'meSittingInSringeri.jpg',
-    // 'meWithAGuitar.jpg',
+    'meWearingPurpleKurta.jpg',
   ],
 };
 
